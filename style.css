@@ -23,3 +23,8 @@
     margin-top: 45px;
     row-gap: 45px;
   }
+@media (max-width:600px ) {
+      #njan{
+        font-size: 2rem;
+      }
+  }
